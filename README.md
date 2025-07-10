@@ -6,7 +6,7 @@ A smart web application built using **Streamlit** that predicts an individual's 
 
 ## 🌐 Live Demo
 
-**[🔗 Try it Live](https://premium-prediction-using-ml.streamlit.app/)** *(Replace with your Streamlit Cloud or deployment link)*
+**[🔗 Try it Live](https://premium-prediction-using-ml.streamlit.app/)** 
 
 
 ---
