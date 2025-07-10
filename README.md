@@ -50,7 +50,7 @@ pip install -r requirements.txt
 ▶️ Launch App:
 streamlit run main.py
 
-🧠 How It Works
+### 🧠 How It Works
 🎯 User Inputs:
 Age, Gender, Region, Income (in Lakhs)
 
